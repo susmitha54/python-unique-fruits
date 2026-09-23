@@ -1,3 +1,5 @@
+''' Find unique_fruits '''
+
 fruit_basket = []
 unique_fruits = []
 for i in range(2):
