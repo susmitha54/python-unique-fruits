@@ -1,4 +1,4 @@
-''' Find unique_fruits '''
+''' Find unique fruits '''
 
 fruit_basket = []
 unique_fruits = []
